@@ -4,6 +4,15 @@ Docker 実践ガイド
 http://www.amazon.co.jp/dp/4844339621  
 2015/12/17  
 
+Docker実践入門
+http://www.amazon.co.jp/dp/4774176540
+2015/09/26
+
+Laravel リファレンス  
+Web職人好みの新世代PHPフレームワーク  
+http://www.amazon.co.jp/dp/4844339451
+2016/01/08
+
 jQuery標準デザイン講座  
 http://www.amazon.co.jp/dp/4798136220  
 2015/12/16  
